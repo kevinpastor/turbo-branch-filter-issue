@@ -1,4 +1,7 @@
 {
   "name": "turbo-filter-issue",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "turbo": "^1.13.2"
+  }
 }
