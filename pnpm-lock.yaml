@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       turbo:
-        specifier: ^1.13.2
-        version: 1.13.2
+        specifier: 1.13.3-canary.0
+        version: 1.13.3-canary.0
 
   packages/first: {}
 
@@ -18,50 +18,50 @@ importers:
 
 packages:
 
-  /turbo-darwin-64@1.13.2:
-    resolution: {integrity: sha512-CCSuD8CfmtncpohCuIgq7eAzUas0IwSbHfI8/Q3vKObTdXyN8vAo01gwqXjDGpzG9bTEVedD0GmLbD23dR0MLA==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-darwin-64/-/turbo-darwin-64-1.13.2.tgz}
+  /turbo-darwin-64@1.13.3-canary.0:
+    resolution: {integrity: sha512-yO2wFNAKSBIELEZR0R4seH5zD/nAF0z9So/4CY68wE6txVF+3OLGL30h2A5JVvod3jgzqrS21crjaWYlH+Nvzw==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-darwin-64/-/turbo-darwin-64-1.13.3-canary.0.tgz}
     requiresBuild: true
     dev: false
     optional: true
 
-  /turbo-darwin-arm64@1.13.2:
-    resolution: {integrity: sha512-0HySm06/D2N91rJJ89FbiI/AodmY8B3WDSFTVEpu2+8spUw7hOJ8okWOT0e5iGlyayUP9gr31eOeL3VFZkpfCw==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-darwin-arm64/-/turbo-darwin-arm64-1.13.2.tgz}
+  /turbo-darwin-arm64@1.13.3-canary.0:
+    resolution: {integrity: sha512-EU287LfTQl16jNaSM8Cq2JbjujZk9Hnr91k91Px3hesk24S4zF8ITvT0GjbicXuosR5OyN7jVL2HcsXodqFnOg==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-darwin-arm64/-/turbo-darwin-arm64-1.13.3-canary.0.tgz}
     requiresBuild: true
     dev: false
     optional: true
 
-  /turbo-linux-64@1.13.2:
-    resolution: {integrity: sha512-7HnibgbqZrjn4lcfIouzlPu8ZHSBtURG4c7Bedu7WJUDeZo+RE1crlrQm8wuwO54S0siYqUqo7GNHxu4IXbioQ==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-linux-64/-/turbo-linux-64-1.13.2.tgz}
+  /turbo-linux-64@1.13.3-canary.0:
+    resolution: {integrity: sha512-Zc9OeAjFslZFoCyS/Hrf8o80vW6IFtouMALoTnr97NNFS+KVhEQDYG5PzDnFI6tQvSCvYAJUaDi8/ML0mh94Gg==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-linux-64/-/turbo-linux-64-1.13.3-canary.0.tgz}
     requiresBuild: true
     dev: false
     optional: true
 
-  /turbo-linux-arm64@1.13.2:
-    resolution: {integrity: sha512-sUq4dbpk6SNKg/Hkwn256Vj2AEYSQdG96repio894h5/LEfauIK2QYiC/xxAeW3WBMc6BngmvNyURIg7ltrePg==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-linux-arm64/-/turbo-linux-arm64-1.13.2.tgz}
+  /turbo-linux-arm64@1.13.3-canary.0:
+    resolution: {integrity: sha512-sAGNIABm8ZGTqbCbeNSXgQpm7nWxdlhwKid9nTA062WyAAv3REdxtYmfNNMFzVchRw/pBFV6p657/EmGB69faA==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-linux-arm64/-/turbo-linux-arm64-1.13.3-canary.0.tgz}
     requiresBuild: true
     dev: false
     optional: true
 
-  /turbo-windows-64@1.13.2:
-    resolution: {integrity: sha512-DqzhcrciWq3dpzllJR2VVIyOhSlXYCo4mNEWl98DJ3FZ08PEzcI3ceudlH6F0t/nIcfSItK1bDP39cs7YoZHEA==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-windows-64/-/turbo-windows-64-1.13.2.tgz}
+  /turbo-windows-64@1.13.3-canary.0:
+    resolution: {integrity: sha512-noxnCMeGz7vxjnRnu2fs6S1kzYi+mHj3RZlYhdSX2QTlm4fCpJlolQUEqyPkEB7/Qucz9/k+Ixg5SPkF6J7ifA==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-windows-64/-/turbo-windows-64-1.13.3-canary.0.tgz}
     requiresBuild: true
     dev: false
     optional: true
 
-  /turbo-windows-arm64@1.13.2:
-    resolution: {integrity: sha512-WnPMrwfCXxK69CdDfS1/j2DlzcKxSmycgDAqV0XCYpK/812KB0KlvsVAt5PjEbZGXkY88pCJ1BLZHAjF5FcbqA==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-windows-arm64/-/turbo-windows-arm64-1.13.2.tgz}
+  /turbo-windows-arm64@1.13.3-canary.0:
+    resolution: {integrity: sha512-8de49/WLIlElr939KBoFdylhx5Crf1+//I2IM2NHNZ0qCIGjRJaz4j2+KdZ8qdgl/kQKaf8NZkn3iO6dDDkFyQ==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo-windows-arm64/-/turbo-windows-arm64-1.13.3-canary.0.tgz}
     requiresBuild: true
     dev: false
     optional: true
 
-  /turbo@1.13.2:
-    resolution: {integrity: sha512-rX/d9f4MgRT3yK6cERPAkfavIxbpBZowDQpgvkYwGMGDQ0Nvw1nc0NVjruE76GrzXQqoxR1UpnmEP54vBARFHQ==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo/-/turbo-1.13.2.tgz}
+  /turbo@1.13.3-canary.0:
+    resolution: {integrity: sha512-feXq4MJgtuuEEfIE/3/3lFm3urFvjVPCHXTDlFNgWZKZnm+VfyvRoI0bqjLOPyKjoscqwXVw2jYO200o2Bu6mQ==, tarball: https://artifactory.ubisoft.org/api/npm/npm/turbo/-/turbo-1.13.3-canary.0.tgz}
     hasBin: true
     optionalDependencies:
-      turbo-darwin-64: 1.13.2
-      turbo-darwin-arm64: 1.13.2
-      turbo-linux-64: 1.13.2
-      turbo-linux-arm64: 1.13.2
-      turbo-windows-64: 1.13.2
-      turbo-windows-arm64: 1.13.2
+      turbo-darwin-64: 1.13.3-canary.0
+      turbo-darwin-arm64: 1.13.3-canary.0
+      turbo-linux-64: 1.13.3-canary.0
+      turbo-linux-arm64: 1.13.3-canary.0
+      turbo-windows-64: 1.13.3-canary.0
+      turbo-windows-arm64: 1.13.3-canary.0
     dev: false
